@@ -276,7 +276,15 @@
         }
     ],
     "execution": {
+        "Node10": {
+            "target": "distribution.js",
+            "workingDirectory": "$(currentDirectory)"
+        },
         "Node16": {
+            "target": "distribution.js",
+            "workingDirectory": "$(currentDirectory)"
+        },
+        "Node20_1": {
             "target": "distribution.js",
             "workingDirectory": "$(currentDirectory)"
         }

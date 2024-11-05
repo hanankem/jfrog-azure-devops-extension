@@ -221,7 +221,13 @@
         }
     ],
     "execution": {
+        "Node10": {
+            "target": "conanBuild.js"
+        },
         "Node16": {
+            "target": "conanBuild.js"
+        },
+        "Node20_1": {
             "target": "conanBuild.js"
         }
     }

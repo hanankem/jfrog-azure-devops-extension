@@ -85,7 +85,15 @@
         }
     ],
     "execution": {
+        "Node10": {
+            "target": "discardBuilds.js",
+            "workingDirectory": "$(currentDirectory)"
+        },
         "Node16": {
+            "target": "discardBuilds.js",
+            "workingDirectory": "$(currentDirectory)"
+        },
+        "Node20_1": {
             "target": "discardBuilds.js",
             "workingDirectory": "$(currentDirectory)"
         }

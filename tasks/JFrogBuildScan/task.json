@@ -69,7 +69,15 @@
         }
     ],
     "execution": {
+        "Node10": {
+            "target": "buildScan.js",
+            "workingDirectory": "$(currentDirectory)"
+        },
         "Node16": {
+            "target": "buildScan.js",
+            "workingDirectory": "$(currentDirectory)"
+        },
+        "Node20_1": {
             "target": "buildScan.js",
             "workingDirectory": "$(currentDirectory)"
         }

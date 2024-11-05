@@ -228,7 +228,15 @@
         }
     ],
     "execution": {
+        "Node10": {
+            "target": "dotnetBuild.js",
+            "workingDirectory": "$(currentDirectory)"
+        },
         "Node16": {
+            "target": "dotnetBuild.js",
+            "workingDirectory": "$(currentDirectory)"
+        },
+        "Node20_1": {
             "target": "dotnetBuild.js",
             "workingDirectory": "$(currentDirectory)"
         }

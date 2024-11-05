@@ -99,7 +99,15 @@
         }
     ],
     "execution": {
+        "Node10": {
+            "target": "audit.js",
+            "workingDirectory": "$(currentDirectory)"
+        },
         "Node16": {
+            "target": "audit.js",
+            "workingDirectory": "$(currentDirectory)"
+        },
+        "Node20_1": {
             "target": "audit.js",
             "workingDirectory": "$(currentDirectory)"
         }
