@@ -219,10 +219,6 @@
             "target": "nugetBuild.js",
             "workingDirectory": "$(currentDirectory)"
         },
-        "Node16": {
-            "target": "nugetBuild.js",
-            "workingDirectory": "$(currentDirectory)"
-        },
         "Node20_1": {
             "target": "nugetBuild.js",
             "workingDirectory": "$(currentDirectory)"

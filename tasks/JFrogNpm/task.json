@@ -182,9 +182,6 @@
         "Node10": {
             "target": "npmBuild.js"
         },
-        "Node16": {
-            "target": "npmBuild.js"
-        },
         "Node20_1": {
             "target": "npmBuild.js"
         }

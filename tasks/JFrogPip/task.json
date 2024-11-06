@@ -156,10 +156,6 @@
             "target": "pipBuild.js",
             "workingDirectory": "$(currentDirectory)"
         },
-        "Node16": {
-            "target": "pipBuild.js",
-            "workingDirectory": "$(currentDirectory)"
-        },
         "Node20_1": {
             "target": "pipBuild.js",
             "workingDirectory": "$(currentDirectory)"

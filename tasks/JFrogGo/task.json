@@ -177,9 +177,6 @@
         "Node10": {
             "target": "goBuild.js"
         },
-        "Node16": {
-            "target": "goBuild.js"
-        },
         "Node20_1": {
             "target": "goBuild.js"
         }

@@ -311,10 +311,6 @@
             "target": "mavenBuild.js",
             "workingDirectory": "$(currentDirectory)"
         },
-        "Node16": {
-            "target": "mavenBuild.js",
-            "workingDirectory": "$(currentDirectory)"
-        },
         "Node20_1": {
             "target": "mavenBuild.js",
             "workingDirectory": "$(currentDirectory)"

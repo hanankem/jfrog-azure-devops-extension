@@ -97,10 +97,6 @@
             "target": "collectIssues.js",
             "workingDirectory": "$(currentDirectory)"
         },
-        "Node16": {
-            "target": "collectIssues.js",
-            "workingDirectory": "$(currentDirectory)"
-        },
         "Node20_1": {
             "target": "collectIssues.js",
             "workingDirectory": "$(currentDirectory)"

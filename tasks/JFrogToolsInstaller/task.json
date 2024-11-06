@@ -106,10 +106,6 @@
             "target": "toolsInstaller.js",
             "workingDirectory": "$(currentDirectory)"
         },
-        "Node16": {
-            "target": "toolsInstaller.js",
-            "workingDirectory": "$(currentDirectory)"
-        },
         "Node20_1": {
             "target": "toolsInstaller.js",
             "workingDirectory": "$(currentDirectory)"

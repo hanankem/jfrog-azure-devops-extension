@@ -70,10 +70,6 @@
             "target": "jfrogCliRun.js",
             "workingDirectory": "$(currentDirectory)"
         },
-        "Node16": {
-            "target": "jfrogCliRun.js",
-            "workingDirectory": "$(currentDirectory)"
-        },
         "Node20_1": {
             "target": "jfrogCliRun.js",
             "workingDirectory": "$(currentDirectory)"
